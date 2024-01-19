@@ -1,0 +1,24 @@
+{
+  "name": "calci514",
+  "version": "0.19.0",
+  "main":"calc",
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/Pragna235/calculator_5j5.git"
+  },
+  "keywords":[
+    "calc",
+    "calcpck","pck"
+  ],
+  
+ 
+  "dependencies": {
+    
+  },
+  
+  
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+  
+}
