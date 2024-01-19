@@ -1,7 +1,7 @@
 {
   "name": "calci514",
   "version": "0.19.0",
-  "main":"calc",
+  "main":"calci",
   "repository":{
     "type":"git",
     "url":"https://github.com/Pragna235/calculator_5j5.git"
