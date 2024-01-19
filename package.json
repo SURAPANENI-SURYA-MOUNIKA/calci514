@@ -1,7 +1,7 @@
 {
   "name": "calci514",
   "version": "0.19.0",
-  "main":"calci",
+  "main":"index",
   "repository":{
     "type":"git",
     "url":"https://github.com/SURAPANENI-SURYA-MOUNIKA/calci514"
